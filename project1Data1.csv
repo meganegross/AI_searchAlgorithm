@@ -1,0 +1,21 @@
+,Sydney Harbor Bridge,Barangaroo Reserve,Opera House,Pirrama Park,Royal Botanic Garden,Hyde Park,Darling Harbor,Chinese Garden of Friendship,Wentworth Park,Glebe Foreshore Parks,Central Station,UTS,Chippendale Green,Victoria Park,USYD,Prince Alfred Park,Redfern Park,Sydney Park,Moore Park,Centennial Park
+Sydney Harbor Bridge,0,0.75,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barangaroo Reserve,0.75,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Opera House,1.4,2,0,0,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pirrama Park,0,3,0,0,0,0,0,0,2.1,0,0,0,0,0,0,0,0,0,0,0
+Royal Botanic Garden,0,0,0.7,0,0,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hyde Park,0,0,0,0,1.5,0,1,0.9,0,0,0,0,0,0,0,0,0,0,0,0
+Darling Harbor,0,0,0,0,0,1,0,0,0.8,0,0,0,0,0,0,0,0,0,0,0
+Chinese Garden of Friendship,0,0,0,0,0,0.9,0,0,1.2,0,0.75,0,0,0,0,0,0,0,0,0
+Wentworth Park,0,0,0,2.1,0,0,0.8,1.2,0,1.8,0,0,0,0,0,0,0,0,0,0
+Glebe Foreshore Parks,0,0,0,0,0,0,0,0,1.8,0,0,0,0,0,0,0,0,0,0,0
+Central Station,0,0,0,0,0,0,0,0.75,0,0,0,0.9,0.9,0,0,0.7,0,0,0,0
+UTS,0,0,0,0,0,0,0,0,0,0,0.9,0,0.4,0.79,0,0,0,0,0,0
+Chippendale Green,0,0,0,0,0,0,0,0,0,0,0.9,0.4,0,0.7,0,0.65,0,0,0,0
+Victoria Park,0,0,0,0,0,0,0,0,0,0,0,0,0.7,0,0.65,0,0,0,0,0
+USYD,0,0,0,0,0,0,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0
+Prince Alfred Park,0,0,0,0,0,0,0,0,0,0,0.7,0,0.65,0,0,0,0.5,0,0,0
+Redfern Park,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,2.6,1.6,1.43
+Sydney Park,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.6,0,0,0
+Moore Park,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.6,0,0,1.3
+Centennial Park,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.43,0,1.3,0
